@@ -26,4 +26,5 @@ ggplot(data=dwi, aes(x = bac1)) +
 # The second thing we need to do is check for covariate balance. You will need to estimate
 # equation (1) with white, male, age and accident (acc) as dependent variables.
 # Are the covariate balanced at the cutoff?
-# y i = X i ' ?? + ?? 1 DU I i + ?? 2 BA C i + ?? 3 BA C i � DU I i + u i
+#
+# y i = X i ′ γ + α 1 DU I i + α 2 BA C i + α 3 BA C i × DU I i + u i
