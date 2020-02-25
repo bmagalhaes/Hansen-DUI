@@ -1,5 +1,10 @@
 ###################################################
-############# Hansen DUI Replication ##############
+# name: hansen_dwi.r                              #
+# author: Bernardo Magalhaes (UT Austin)          #
+# description: Replication - Punishment and       #
+#              Deterrence: Evidence from Drunk    #
+#              Driving By Benjamin Hansen         #
+# date: February 25, 2020                         #
 ###################################################
 
 # read in the data
